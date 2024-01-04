@@ -1,2 +1,3 @@
-# IrisRecognition_CompVision
-Iris Recognition 
+# iris_recorgnition_CV_project
+
+
